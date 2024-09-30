@@ -1,7 +1,3 @@
-# Nev: Lakatos Leonardó Demeter
-# Neptun: HME82K
-# h: h373985
-
 def szekem(sorSzam: int):
     sor = sorSzam//14+1 #sor meghatarozas
     oldal = "bal"
