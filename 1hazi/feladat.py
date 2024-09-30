@@ -17,4 +17,5 @@ def szekem(sorSzam: int):
 
     return f"{sor}. sor, {oldal} {szek}. szek"
 
-print(szekem(15))
+#Tesztelés
+#print(szekem(15))
